@@ -1,0 +1,11 @@
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\bin\Debug\Adminapp.exe.config
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\bin\Debug\Adminapp.exe
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\bin\Debug\Adminapp.pdb
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\obj\Debug\Adminapp.csprojAssemblyReference.cache
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\obj\Debug\Adminapp.LoginForm.resources
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\obj\Debug\Adminapp.Properties.Resources.resources
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\obj\Debug\Adminapp.csproj.GenerateResource.cache
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\obj\Debug\Adminapp.csproj.CoreCompileInputs.cache
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\obj\Debug\Adminapp.exe
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\obj\Debug\Adminapp.pdb
+C:\Users\dell 3542\Desktop\Adminapp\Adminapp\obj\Debug\Adminapp.Form2.resources

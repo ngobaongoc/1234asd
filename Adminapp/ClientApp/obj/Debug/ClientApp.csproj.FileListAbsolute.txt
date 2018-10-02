@@ -1,0 +1,6 @@
+C:\Users\dell 3542\Desktop\Adminapp\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\dell 3542\Desktop\Adminapp\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\dell 3542\Desktop\Adminapp\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\dell 3542\Desktop\Adminapp\ClientApp\obj\Debug\ClientApp.TestingForm.resources
+C:\Users\dell 3542\Desktop\Adminapp\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\dell 3542\Desktop\Adminapp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
